@@ -1,1 +1,1 @@
-.google clone
+update.google clone
